@@ -1,4 +1,4 @@
-**Car Sales Price Prediction & Titanic Survival Prediction - README**
+**Car Sales Price Prediction - README**
 
 **Project Overview**
 
